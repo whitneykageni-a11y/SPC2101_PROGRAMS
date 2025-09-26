@@ -1,4 +1,8 @@
-// Loan approval program
+/*
+Name:Whitney Kageni
+Reg No:CT101/G/26543/25
+Program:Loan approval program
+*/
 # include <stdio.h>
 
 int main(){
@@ -20,3 +24,4 @@ int main(){
 
     return 0;
 }
+
