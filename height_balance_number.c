@@ -1,4 +1,8 @@
-// Display of details
+/*
+Name:Whitney Kageni
+Reg No:CT101/G/26543/25
+Program:Display of details
+*/
 #  include <stdio.h>
 int main(){
     int height;
@@ -18,3 +22,4 @@ int main(){
 
     return 0;
 }
+
