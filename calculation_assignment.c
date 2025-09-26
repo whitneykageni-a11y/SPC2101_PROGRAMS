@@ -1,4 +1,8 @@
-//Calculating the volume and surface area  of a cylinder
+/*
+Name:Whitney Kageni
+Reg No:CT101/G/26543/25
+Prrogram:Calculation of volume and surface area
+*/
 # include <stdio.h>
 int main(){
     float height,radius,volume,surface_area;
@@ -20,3 +24,4 @@ int main(){
 
     return 0;
 }
+
