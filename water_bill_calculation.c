@@ -1,7 +1,7 @@
 /*
 Name:Whitney Kageni
 Reg No:CT101/G/26543/25
-Program:Water_bill_calculation
+Description:program to calculate water bills
 */
 # include <stdio.h>
 int main (){
@@ -25,3 +25,4 @@ int main (){
     printf("\nTotal water bill %.2lfkes\n",total_water_bill);
     return 0;
 }
+
