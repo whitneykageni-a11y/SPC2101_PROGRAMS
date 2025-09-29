@@ -1,7 +1,7 @@
 /*
 Name:Whitney Kageni
 Reg No:CT101/G/26543/25
-Program:Exam_eligibilty
+Description:program to determine the eligibility of a student for them to do an exam
 */
 # include <stdio.h>
 int main (){
@@ -22,3 +22,4 @@ int main (){
     }
     return 0;
 }
+
