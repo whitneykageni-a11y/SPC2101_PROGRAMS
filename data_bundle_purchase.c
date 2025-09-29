@@ -1,7 +1,7 @@
 /*
 Name:Whitney Kageni
 Reg No:CT101/G/26543/25
-Program:Data_bundle_purchase
+Description:program for purchase of data bundles
 */
 # include <stdio.h>
 int main (){
@@ -31,3 +31,4 @@ int main (){
     }
     return 0;
 }
+
