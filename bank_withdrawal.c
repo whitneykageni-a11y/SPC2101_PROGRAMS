@@ -1,7 +1,7 @@
 /*
 Name:Whitney Kageni
 Reg No:CT101/G/26543/25
-Description:A program that alllows wuthdrawal of money from a bank
+Description:A program that alllows withdrawal of money from a bank
 */
 #include <stdio.h>
 
@@ -26,3 +26,4 @@ int main() {
     printf("Account empty!\n");
     return 0;
 }
+
