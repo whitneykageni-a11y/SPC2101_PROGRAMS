@@ -17,3 +17,4 @@ int main(){
    printf("This is your fare: Ksh%d\n",calculate_fare(distance_inkm));
    return 0;
   }
+
